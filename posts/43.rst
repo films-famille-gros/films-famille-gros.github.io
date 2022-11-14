@@ -1,0 +1,14 @@
+.. post:: 29 Aug 1971
+   :location: Corbier, Saint-Martin
+
+Mariage de Georgette et Ski au Corbier
+======================================
+
+29 Août 1971: Mariage de Georgette et Gaby
+
+Mars 1972: Ski au Corbier
+
+.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/43.mp4
+   :width: 500
+   :height: 300
+

@@ -1,0 +1,11 @@
+.. post:: 15 Sep 1956
+   :location: Roche de Rame
+
+Mariage Antoinette
+==================
+
+15 Septembre 1956: Roche de Rame avec ceux du Gers et mariage Antoinette.
+
+.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/7.mp4
+   :width: 500
+   :height: 300

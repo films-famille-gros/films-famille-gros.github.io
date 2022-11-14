@@ -1,0 +1,13 @@
+.. post:: Oct 1959
+   :location: Plan d'Amont, Aussois
+
+Balade à Plan d'Amont et Aussois
+================================
+
+Octobre 1959: Balade à Plan d'Amont
+
+Décembre 1959: 1er jour de neige à Aussois
+
+.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/20.mp4
+   :width: 500
+   :height: 300

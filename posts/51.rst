@@ -1,0 +1,11 @@
+.. post:: Aug 1975
+   :location: Le Gers
+
+Mariage Bernadette dans le Gers
+===============================
+
+Août 1975: Mariage Bernadette dans le Gers
+
+.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/51.mp4
+   :width: 500
+   :height: 300

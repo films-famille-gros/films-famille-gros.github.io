@@ -1,0 +1,14 @@
+.. post:: 5 Aug 1966
+   :location: La Praz, Mont-Cenis
+
+Visite des Gersois à La Praz
+============================
+
+5 Août 1966: Visite des Gersois à la Praz
+
+Début promenade de la Praz au Mont Cenis (film en partie raté)
+
+.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/34.mp4
+   :width: 500
+   :height: 300
+

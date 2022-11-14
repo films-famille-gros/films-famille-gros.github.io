@@ -1,0 +1,16 @@
+.. post:: 2 Aug 1970
+   :location: Besançon, Yvoire sur Léman
+
+Suite Vacances
+==============
+
+Août 1970: Panorama de Besançon vu de Notre Dame des Buis.
+
+Yvoire sur Léman - cité médiévale
+
+Colonie de Chens sur Léman - visite à Renée
+
+.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/42.mp4
+   :width: 500
+   :height: 300
+
