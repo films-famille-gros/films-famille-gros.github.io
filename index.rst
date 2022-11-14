@@ -23,6 +23,17 @@ Welcome to Vidéos Famille Gros's documentation!
 * :ref:`modindex`
 * :ref:`search`
 
+Téléchargement
+==============
+
+Pour récupérer l'intégralité des vidéos:
+https://github.com/films-famille-gros/static/archive/refs/heads/main.zip
+
+Pour une vidéo en particulier:
+https://github.com/films-famille-gros/static/tree/main/videos
+
+Choisir une vidéo, puis clic droit sur "view raw" et "sauvegarder le lien sous"
+
 Carnet
 ======
 
