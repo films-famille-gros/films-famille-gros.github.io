@@ -3,7 +3,17 @@ Films de la famille Gros
 
 Possibilité de rechercher et une page par article
 
-* :ref:`blog-posts`
+* Liste des films: :ref:`blog-posts`
+
+-------
+
+.. postlist::
+   :list-style: circle
+   :category: Manual
+   :language: fr
+   :date: %m/%Y
+   :format: {title}, tourné en {date}, à {location}
+   :sort:
 
 Téléchargement
 ==============
@@ -72,13 +82,4 @@ Utilisation de ablog + sphinx + https://pydata-sphinx-theme.readthedocs.io
 Utilisation de github pour le hosting (gratuit, valable à vie)
 
 fait par Pierrick Bouvier + ajouter contact
-
-Films
-=====
-
-.. postlist::
-   :list-style: circle
-   :category: Manual
-   :format: {title}
-   :sort:
 
