@@ -17,10 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Vidéos Famille Gros'
-copyright = '2022'
-author = ''
-
+project = 'Films de la famille Gros'
 
 # -- General configuration ---------------------------------------------------
 
@@ -54,6 +51,15 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_theme = 'pydata_sphinx_theme'
+html_title = project
+html_show_sourcelink = False
+html_show_sphinx = False
+html_context = {
+   "default_mode": "dark"
+}
+html_theme_options = {
+    "search_bar_text": "Chercher une vidéo..."
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

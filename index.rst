@@ -1,17 +1,9 @@
-.. Vidéos Famille Gros documentation master file, created by
-   sphinx-quickstart on Sun Oct 30 16:47:34 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Vidéos Famille Gros's documentation!
-===============================================
+Films de la famille Gros
+========================
 
 Possibilité de rechercher et une page par article
 
 * :ref:`blog-posts`
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 Téléchargement
 ==============
@@ -75,14 +67,14 @@ TODO: créer une comparaison vidéo avant/après pour donner idée.
 choix h264 car seul supporté par browser (encodage av1 trop long hélas). h265
 excellent mais non lisible par les browsers.
 
-Utilisation de ablog + sphinx
+Utilisation de ablog + sphinx + https://pydata-sphinx-theme.readthedocs.io
 
 Utilisation de github pour le hosting (gratuit, valable à vie)
 
 fait par Pierrick Bouvier + ajouter contact
 
-Vidéos
-======
+Films
+=====
 
 .. postlist::
    :list-style: circle
