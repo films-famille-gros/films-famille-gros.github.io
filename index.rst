@@ -18,7 +18,8 @@ Welcome to Vidéos Famille Gros's documentation!
 
 ---
 
-* :ref:`blog-posts`
+Possibilité de rechercher et une page par article
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
@@ -36,6 +37,9 @@ Choisir une vidéo, puis clic droit sur "view raw" et "sauvegarder le lien sous"
 
 Carnet
 ======
+
+Ce carnet contient les notes de papi à propos des films. Son contenu a été
+retranscrit sur la page de chaque vidéo.
 
 `Carnet`_
 
@@ -63,3 +67,26 @@ Autres:
 - 46: Arrivée Toussuire - repas mariage Christine + Jorg. Noces d'argent papa +
   maman. Bobine notée 47 (46 dans carnet)
 - 48: Suite Toussuire famille Repas 4 juillet 1976 - fin avec le petit cheval
+
+Making of
+=========
+
+Kodak reelz: https://www.youtube.com/watch?v=hWNmRUgmHTI
+
+https://github.com/films-famille-gros/films-famille-gros.github.io
+
+transform video: https://github.com/films-famille-gros/films-famille-gros.github.io/blob/main/transform_video.sh
+
+choix h264 car seul supporté par browser (encodage av1 trop long hélas). h265
+excellent mais non lisible par les browsers.
+
+Utilisation de ablog + sphinx
+
+Utilisation de github pour le hosting (gratuit, valable à vie)
+
+fait par Pierrick Bouvier + ajouter contact
+
+Vidéos
+======
+
+* :ref:`blog-posts`
