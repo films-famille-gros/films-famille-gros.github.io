@@ -6,20 +6,9 @@
 Welcome to Vidéos Famille Gros's documentation!
 ===============================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-.. postlist::
-   :list-style: circle
-   :category: Manual
-   :format: {title}
-   :sort:
-
----
-
 Possibilité de rechercher et une page par article
 
+* :ref:`blog-posts`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
@@ -89,4 +78,9 @@ fait par Pierrick Bouvier + ajouter contact
 Vidéos
 ======
 
-* :ref:`blog-posts`
+.. postlist::
+   :list-style: circle
+   :category: Manual
+   :format: {title}
+   :sort:
+
