@@ -8,7 +8,7 @@ Possibilité de rechercher et une page par article
 Téléchargement
 ==============
 
-Pour récupérer l'intégralité des vidéos:
+Pour récupérer l'intégralité des vidéos (~4Go):
 https://github.com/films-famille-gros/static/archive/refs/heads/main.zip
 
 Pour une vidéo en particulier:
