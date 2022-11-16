@@ -111,7 +111,8 @@ trap "rm -rf $tmp" EXIT
 
 cp $in $tmp/in.mp4
 # Videos are scanned at 20 fps, but were shot at 16 (for 8mm) or 18 (super 8).
-run fix_framerate 16
+# ALREADY DONE, ran only once
+#run fix_framerate 16
 run denoise
 run deflicker
 run stabilize
