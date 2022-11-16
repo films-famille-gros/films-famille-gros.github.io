@@ -1,17 +1,13 @@
 Films de la famille Gros
 ========================
 
-Possibilité de rechercher et une page par article
-
-* Liste des films: :ref:`blog-posts`
-
--------
+Possibilité de rechercher avec la loupe en haut à droite!
 
 .. postlist::
    :list-style: circle
    :category: Manual
    :language: fr
-   :date: %m/%Y
+   :date: %B %Y
    :format: {title}, tourné en {date}, à {location}
    :sort:
 

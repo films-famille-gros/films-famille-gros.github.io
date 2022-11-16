@@ -12,3 +12,4 @@ pydata-sphinx-theme==0.11.0
 RUN apt update && apt install -y ffmpeg
 RUN apt update && apt install -y mediainfo
 RUN apt update && apt install -y git
+RUN apt update && apt install -y locales-all
