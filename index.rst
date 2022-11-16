@@ -68,6 +68,12 @@ transform video: https://github.com/films-famille-gros/films-famille-gros.github
 
 Expliquer les passes
 
+.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/compare_1.mp4
+   :height: 100
+
+.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/compare_4.mp4
+   :height: 100
+
 TODO: créer une comparaison vidéo avant/après pour donner idée.
 
 choix h264 car seul supporté par browser (encodage av1 trop long hélas). h265
