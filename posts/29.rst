@@ -18,8 +18,8 @@ Renée
   vacances Péchiney -  Papi Mami Christine Georgette Gérard  moi et Mme Fauch
 * 1.07 - Chalet Matter Péchiney - Batiment de droite restaurant - Batiment de
   gauche Chambres familiales et dortoirs d'hébergements
-* -1.40 Mami-Georgette-Gérard-Moi
-* -2.34 Melle Georgette Fauch de Besançon - Amie que Papi avait connu à Challes
+* 1.40 Mami-Georgette-Gérard-Moi
+* 2.34 Melle Georgette Fauch de Besançon - Amie que Papi avait connu à Challes
   les Eaux lorqu'il faisait ses cures pour la gorge
 
 ---
