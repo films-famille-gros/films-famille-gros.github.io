@@ -34,5 +34,4 @@ Renée
 ---
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/8.mp4
-   :width: 500
    :height: 300

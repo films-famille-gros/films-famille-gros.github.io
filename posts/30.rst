@@ -12,5 +12,4 @@ Promenade à Myans: Christine, Maman, Renée, Bernard
 1963: Mariage de Juliette Deléglise à Saint-Martin
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/30.mp4
-   :width: 500
    :height: 300

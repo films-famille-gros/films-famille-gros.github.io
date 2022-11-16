@@ -9,6 +9,5 @@ Mariage de Georgette et Ski au Corbier
 Mars 1972: Ski au Corbier
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/43.mp4
-   :width: 500
    :height: 300
 

@@ -7,5 +7,4 @@ Mariage de Pierrette du Gers
 1963: Mariage de Pierrette du Gers (papa, Christine et Gérard)
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/31.mp4
-   :width: 500
    :height: 300

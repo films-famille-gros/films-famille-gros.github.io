@@ -10,6 +10,5 @@ Parachutistes au Bourget du lac.
 volailles.
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/39.mp4
-   :width: 500
    :height: 300
 

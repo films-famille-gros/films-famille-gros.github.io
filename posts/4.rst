@@ -11,6 +11,5 @@ les marraines.
 3 juin 1956: Fleurs dans le pré. Promenade jusqu'à Albanne. Violettes, anémones.
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/4.mp4
-   :width: 500
    :height: 300
 

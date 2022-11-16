@@ -17,6 +17,5 @@ de la communion solennelle de Christine - St Jean puis St Martin
 ---
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/15.mp4
-   :width: 500
    :height: 300
 

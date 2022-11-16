@@ -9,5 +9,4 @@ Octobre 1959: Balade à Plan d'Amont
 Décembre 1959: 1er jour de neige à Aussois
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/20.mp4
-   :width: 500
    :height: 300

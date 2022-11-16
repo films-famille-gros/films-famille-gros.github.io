@@ -9,6 +9,5 @@ Barrage du Mont Cenis avec Mme Fauchs
 Septembre 1967: Alice au Monolithe. Renée et le chat.
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/37.mp4
-   :width: 500
    :height: 300
 

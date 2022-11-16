@@ -9,5 +9,4 @@ Août 1970: Voyage en Suisse (Montreux - ?) avec Christine
 Lac de Joux (Doubs)
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/41.mp4
-   :width: 500
    :height: 300

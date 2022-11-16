@@ -27,6 +27,5 @@ des amies de papi et mamie.
 ---
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/3.mp4
-   :width: 500
    :height: 300
 

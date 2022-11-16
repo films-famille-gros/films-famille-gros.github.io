@@ -17,6 +17,5 @@ Tonton Georges et Messe en plein air.
 ---
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/17.mp4
-   :width: 500
    :height: 300
 

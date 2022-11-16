@@ -11,6 +11,5 @@ Avril 1974: Corinne à la Praz
 Novembre 1974: Balade en montagne à Saint-Martin
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/50.mp4
-   :width: 500
    :height: 300
 

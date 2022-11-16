@@ -7,5 +7,4 @@ Vacances dans le Gers
 8-22 Août 1973: Vacances dans le Gers avec Pépé, Renée et Jean-Claude.
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/44.mp4
-   :width: 500
    :height: 300

@@ -11,6 +11,5 @@ Yvoire sur Léman - cité médiévale
 Colonie de Chens sur Léman - visite à Renée
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/42.mp4
-   :width: 500
    :height: 300
 

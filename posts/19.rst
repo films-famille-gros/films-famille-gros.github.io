@@ -16,5 +16,4 @@ Mami Tonton Georges La Marraine Sabine qui conduit Georges Perret à la mairie
 ---
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/19.mp4
-   :width: 500
    :height: 300

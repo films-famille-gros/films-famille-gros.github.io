@@ -9,6 +9,5 @@ Visite des Gersois à La Praz
 Début promenade de la Praz au Mont Cenis (film en partie raté)
 
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/34.mp4
-   :width: 500
    :height: 300
 
