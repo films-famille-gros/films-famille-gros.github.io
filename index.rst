@@ -76,7 +76,7 @@ Grenoble), et je peux vous les expédier avec plaisir!
 Dans les coulisses
 ==================
 
-Pour les détails de réalisation de ce site, ça se passe `ici <coulisses.html>`_.
+Pour les détails de réalisation, ça se passe `ici <coulisses.html>`_.
 
 .. toctree::
    :hidden:
