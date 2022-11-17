@@ -65,7 +65,7 @@ Dans l'ordre, les choses suivantes sont faites:
 - denoise: enlever le "bruit" de la vidéo, c'est à dire les fourmillements qu'on
   peut observer. Cela se fait au prix d'un léger flou (réglable), que j'ai
   choisi au mieux.
-- deflicker: enlever les différences de luminosité entre image, qui provoquait
+- deflicker: enlever les différences de luminosité entre images, qui provoquait
   un effet de scintillement.
 - stabilize: stabiliser l'image. Probablement l'un des nettoyages les plus
   visibles, il supprime tout tremblement (que ce soit dû au scanner, ou bien à
