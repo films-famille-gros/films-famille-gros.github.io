@@ -1,8 +1,11 @@
 Films de la famille Gros
 ========================
 
-Pour rechercher une vidéo, vous pouvez utiliser la loupe en haut à droite ou
-bien la :ref:`search`.
+Ce site a été créé pour partager les films 8mm réalisés par papi Gros, entre
+1955 et 1975.
+
+Pour rechercher une vidéo à partir de son titre ou de sa description, vous
+pouvez utiliser la :ref:`search` ou bien la loupe en haut à droite de cet page.
 
 .. postlist::
    :list-style: circle
@@ -12,33 +15,30 @@ bien la :ref:`search`.
    :format: {title}, tourné en {date}, à {location}
    :sort:
 
+Carnet
+======
+
+Ce `carnet`_ contient les notes de papi à propos des films. Son contenu a été
+retranscrit sur la page de chaque vidéo.
+
+.. _carnet: https://raw.githubusercontent.com/films-famille-gros/static/main/carnet.pdf
+
 Téléchargement
 ==============
 
 Pour récupérer l'intégralité des vidéos (~4Go):
 https://github.com/films-famille-gros/static/archive/refs/heads/main.zip
 
-Pour une vidéo en particulier:
-https://github.com/films-famille-gros/static/tree/main/videos
+Pour une vidéo en particulier, depuis sa page, vous pouvez l'enregistrer en
+faisant un clic droit dessus, et "sauvegarder la vidéo sous".
 
-Choisir une vidéo, puis clic droit sur "view raw" et "sauvegarder le lien sous"
+.. _choisir une: https://github.com/films-famille-gros/static/tree/main/videos
 
-Carnet
-======
-
-Ce carnet contient les notes de papi à propos des films. Son contenu a été
-retranscrit sur la page de chaque vidéo.
-
-`Carnet`_
-
-.. _Carnet: https://raw.githubusercontent.com/films-famille-gros/static/main/carnet.pdf
-
-Manquants
-==========
+Films manquants
+===============
 
 Ces bobines n'ont pas fonctionné dans le scanner (elles semblent plus épaisses
-que les autres). Elles semblent être du Super 8 (au lieu de 8mm pour les autres)
-et le scanner n'a pas fonctionné avec.
+que les autres). Elles sont au format Super 8 (au lieu de 8mm pour les autres).
 
 Bobine non numérotée:
 
@@ -56,33 +56,15 @@ Autres:
   maman. Bobine notée 47 (46 dans carnet)
 - 48: Suite Toussuire famille Repas 4 juillet 1976 - fin avec le petit cheval
 
+Contact
+=======
+
+Si vous voulez aider à compléter une description de vidéo, obtenir des
+informations, ou simplement me laisser un petit message:
+
+pierrick.bouvier@posteo.net
+
 Making of
 =========
 
-Origine du projet: film de la croix des têtes
-
-Kodak reelz: https://www.youtube.com/watch?v=hWNmRUgmHTI
-
-https://github.com/films-famille-gros/films-famille-gros.github.io
-
-transform video: https://github.com/films-famille-gros/films-famille-gros.github.io/blob/main/transform_video.sh
-
-Expliquer les passes
-
-.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/compare_1.mp4
-   :height: 100
-
-.. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/compare_4.mp4
-   :height: 100
-
-TODO: créer une comparaison vidéo avant/après pour donner idée.
-
-choix h264 car seul supporté par browser (encodage av1 trop long hélas). h265
-excellent mais non lisible par les browsers.
-
-Utilisation de ablog + sphinx + https://pydata-sphinx-theme.readthedocs.io
-
-Utilisation de github pour le hosting (gratuit, valable à vie)
-
-fait par Pierrick Bouvier + ajouter contact
-
+Pour les détails de réalisation de ce site, ça se passe `ici <making_of.html>`_.
