@@ -64,7 +64,15 @@ informations, ou simplement me laisser un petit message:
 
 pierrick.bouvier@posteo.net
 
-Making of
-=========
+Si vous désirez avoir accès aux bobines de film, elles sont chez moi (sur
+Grenoble), et je peux vous les expédier avec plaisir!
 
-Pour les détails de réalisation de ce site, ça se passe `ici <making_of.html>`_.
+Dans les coulisses
+==================
+
+Pour les détails de réalisation de ce site, ça se passe `ici <coulisses.html>`_.
+
+.. toctree::
+   :hidden:
+
+   coulisses.rst
