@@ -67,7 +67,7 @@ Dans l'ordre, les choses suivantes sont faites:
 - deflicker: enlever les différences de luminosité entre image, qui provoquait
   un effet de scintillement.
 - stabilize: stabiliser l'image. Probablement l'un des nettoyages les plus
-  visibles, il supprime tout tremblement (que ce soit du au scanner, ou bien à
+  visibles, il supprime tout tremblement (que ce soit dû au scanner, ou bien à
   la caméra qui a filmé les images).
 - interpolate: Comme les films originaux sont en 16 images/secondes, c'est bien
   peu pour l'oeil humain. (youtube et la TV sont en 30 i/s, le cinéma en 24 i/s).
