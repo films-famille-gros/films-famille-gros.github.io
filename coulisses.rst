@@ -25,7 +25,8 @@ Scanner
 -------
 
 J'ai utilisé le modèle Kodak Reelz, dont voici une `démonstration
-<https://www.youtube.com/watch?v=hWNmRUgmHTI>`_, revendu après son utilisation.
+<https://www.youtube.com/watch?v=hWNmRUgmHTI>`_, et que j'ai revendu après son
+utilisation.
 
 Pour faire simple, c'est un appareil qui scanne image par image toute la bobine,
 et produit un fichier vidéo en sortie. Compter environ 30min pour une bobine 15m
