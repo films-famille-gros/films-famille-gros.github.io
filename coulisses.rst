@@ -70,12 +70,12 @@ Dans l'ordre, les choses suivantes sont faites:
 - stabilize: stabiliser l'image. Probablement l'un des nettoyages les plus
   visibles, il supprime tout tremblement (que ce soit dû au scanner, ou bien à
   la caméra qui a filmé les images).
-- interpolate: Comme les films originaux sont en 16 images/secondes, c'est bien
-  peu pour l'oeil humain. (youtube et la TV sont en 30 i/s, le cinéma en 24 i/s).
-  Ici ffmpeg fait de la "magie", et détecte les changements entre deux images,
-  pour créer de nouvelles images, complètement artificielles. Cela se voit
-  parfois, sur des effets de "fantômes" le long des mouvements. Mais dans
-  l'ensemble, c'est vraiment remarquable.
+- interpolate: Les films originaux sont tournés en 16 images/secondes, ce qui
+  est bien peu pour l'oeil humain. Pour donner une idée, la TV ou youtube sont
+  en 30 i/s et le cinéma en 24 i/s). Ici ffmpeg fait de la "magie", et détecte
+  les changements entre deux images, pour créer de nouvelles images,
+  complètement artificielles. Cela se voit parfois, sur des effets de "fantômes"
+  le long des mouvements. Mais dans l'ensemble, c'est vraiment remarquable.
 - encode: Les fichiers originaux pèsent environ 200Mo pour 3 min. Là, on réduit
   à 100Mo, car c'est une limite pour l'hébergement des fichiers que j'ai choisi.
   À la base j'avais choisi le codec HEVC (h265), mais malheureusment, aucun
