@@ -112,15 +112,16 @@ Le site est hébergé sur `Github pages <https://pages.github.com/>`_, que
 j'utilisais déjà pour mon `site personnel <https://second-reality.github.io/>`_
 ainsi que mes `photos <https://pimpmypicture.github.io/>`_.
 
-C'est gratuit, valable à vie, et il n'y a rien à maintenir. Cependant, il existe
-une limite en taille (1Go max) et en traffic (100Go/mois).
+Le service "Github pages" est gratuit, valable à vie, et il n'y a rien à
+maintenir. Cependant, il existe une limite en taille (1Go max) et en traffic
+(100Go/mois).
 
 Ce site est très léger, et ce sont les vidéos qui le composent qui posent
 problème. Ainsi, pour contourner cette limite, celles-ci sont situées dans un
-`deuxième dépôt <https://github.com/films-famille-gros/static>`_. Dans ce cas,
-il n'y a pas de limite de traffic, et la taille est de 10Go max. La seule limite
-est sur la taille de fichier: 100Mo maximum. C'est pour cela que les vidéos
-visent cette taille (voir "encode" au dessus).
+`deuxième dépôt <https://github.com/films-famille-gros/static>`_ git, classique
+cette fois. Dans ce cas, il n'y a pas de limite de traffic, et la taille est de
+10Go max. La seule limite est sur la taille de fichier: 100Mo maximum. C'est
+pour cela que les vidéos visent cette taille (voir "encode" au dessus).
 
 Conclusion
 ----------
