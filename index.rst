@@ -52,8 +52,8 @@ Mariage Jean-Claude et Maryse: 6 Août 1977:
 
 Autres:
 
-- 46: Arrivée Toussuire - repas mariage Christine + Jorg. Noces d'argent papa +
-  maman. Bobine notée 47 (46 dans carnet)
+- 46: Arrivée Toussuire - repas mariage Christine + Jorg. Noces d'argent
+  papi/mamie. Bobine notée 47 (46 dans carnet)
 - 48: Suite Toussuire famille Repas 4 juillet 1976 - fin avec le petit cheval
 
 Contact
