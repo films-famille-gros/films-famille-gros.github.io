@@ -119,7 +119,7 @@ Ce site est très léger, et ce sont les vidéos qui le composent qui posent
 problème. Ainsi, pour contourner cette limite, celles-ci sont situées dans un
 `deuxième dépôt <https://github.com/films-famille-gros/static>`_. Dans ce cas,
 il n'y a pas de limite de traffic, et la taille est de 10Go max. La seule limite
-est sur la taille de fichier: 100Mo maximum. C'est pour cela que les vidéos sont
+est sur la taille de fichier: 100Mo maximum. C'est pour cela que les vidéos
 visent cette taille (voir "encode" au dessus).
 
 Conclusion
