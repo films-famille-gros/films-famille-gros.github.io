@@ -7,6 +7,12 @@ Ce site a été créé pour partager les films 8mm réalisés par papi Gros, en
 Pour rechercher une vidéo à partir de son titre ou de sa description, vous
 pouvez utiliser la :ref:`search` ou bien la loupe en haut à droite de cet page.
 
+.. image:: /_static/welcome.jpg
+   :height: 150px
+   :align: center
+
+Voici les films:
+
 .. postlist::
    :list-style: circle
    :category: Manual
