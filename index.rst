@@ -1,7 +1,8 @@
 Films de la famille Gros
 ========================
 
-Possibilité de rechercher avec la loupe en haut à droite!
+Pour rechercher une vidéo, vous pouvez utiliser la loupe en haut à droite ou
+bien la :ref:`search`.
 
 .. postlist::
    :list-style: circle
