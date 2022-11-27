@@ -55,7 +55,7 @@ html_title = project
 html_show_sourcelink = False
 html_show_sphinx = False
 html_context = {
-   "default_mode": "dark"
+   "default_mode": "light"
 }
 html_theme_options = {
     "search_bar_text": "Chercher une vidéo..."
