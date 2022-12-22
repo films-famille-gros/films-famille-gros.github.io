@@ -7,17 +7,15 @@ Ce site a été créé pour partager les films 8mm réalisés par papi Gros, en
 Pour rechercher une vidéo à partir de son titre ou de sa description, vous
 pouvez utiliser la :ref:`search` ou bien la loupe en haut à droite de cet page.
 
-.. image:: /_static/welcome.jpg
-   :height: 150px
-   :align: center
-   
 Ce `carnet`_ contient les notes de papi à propos des films. Son contenu a été
 retranscrit sur la page de chaque vidéo.
 
 .. _carnet: https://raw.githubusercontent.com/films-famille-gros/static/main/carnet.pdf
 
-Voici les films:
-
+.. image:: /_static/welcome.jpg
+   :height: 150px
+   :align: center
+   
 .. postlist::
    :list-style: circle
    :category: Manual
