@@ -1,8 +1,8 @@
 .. post:: 2 Jul 1965
    :location: Île de Ré
 
-Suite Vacances à l'île de Ré
-============================
+Suite Vacances à l'île de Ré (32_bis)
+=====================================
 
 Juillet 1965: Vacances à l'île de Ré (Renée, Maman, Georgette)
 
