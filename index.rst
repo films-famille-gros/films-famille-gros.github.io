@@ -10,6 +10,11 @@ pouvez utiliser la :ref:`search` ou bien la loupe en haut à droite de cet page
 .. image:: /_static/welcome.jpg
    :height: 150px
    :align: center
+   
+Ce `carnet`_ contient les notes de papi à propos des films. Son contenu a été
+retranscrit sur la page de chaque vidéo.
+
+.. _carnet: https://raw.githubusercontent.com/films-famille-gros/static/main/carnet.pdf
 
 Voici les films:
 
@@ -20,14 +25,6 @@ Voici les films:
    :date: %B %Y
    :format: {title}, tourné en {date}, à {location}
    :sort:
-
-Carnet
-======
-
-Ce `carnet`_ contient les notes de papi à propos des films. Son contenu a été
-retranscrit sur la page de chaque vidéo.
-
-.. _carnet: https://raw.githubusercontent.com/films-famille-gros/static/main/carnet.pdf
 
 Téléchargement
 ==============
