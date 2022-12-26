@@ -8,6 +8,12 @@ Mariage de Georgette et Ski au Corbier (43)
 
 Mars 1972: Ski au Corbier
 
+---
+
+Céline: On peut apercevoir Bernard et son style (classe!) à 2min45.
+
+---
+
 .. video:: https://raw.githubusercontent.com/films-famille-gros/static/main/videos/43.mp4
    :height: 300
 
